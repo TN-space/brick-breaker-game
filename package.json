@@ -1,0 +1,23 @@
+{
+  "name": "brick-breaker-game",
+  "version": "1.0.0",
+  "description": "A simple Brick Breaker Game, built using canvas and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d brick-breaker-game"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TN-space/brick-breaker-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TN-space/brick-breaker-game/issues"
+  },
+  "homepage": "https://TN-space.github.io/brick-breaker-game",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
